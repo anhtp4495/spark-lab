@@ -16,7 +16,7 @@ mvn clean compile assembly:single
 
 ## Chạy ứng dụng Consumer Spark Streaming.
 ### Truy cập [GoogleCloud-EC](https://github.com/anhtp4495/spark-lab/blob/main/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20SSH%20t%E1%BB%9Bi%20Server.md), mở 2 shell
-### Tại shell 1 chạy Consumer
+### Tại shell 1 [submit](https://github.com/anhtp4495/spark-lab/blob/main/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20submit%20spark%20application.md) KafkaConsumers
 
 ```
 source spark-environment.env
