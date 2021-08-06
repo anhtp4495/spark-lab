@@ -5,10 +5,6 @@
 cd spark-lab/src/SparkMLLib
 mvn clean compile assembly:single
 ```
-```
-cd spark-lab/src/SparkSQLDataSource
-mvn clean compile assembly:single
-```
 ## Chạy ứng dụng Spark MLLib
 ```
 spark-submit --master local[*] target\SparkMLLib-0.0.1-SNAPSHOT-jar-with-dependencies.jar
