@@ -3,3 +3,9 @@
 ### Các bài [thực hành](https://github.com/anhtp4495/spark-lab/tree/main/labs)
 ### Các file [cấu hình](https://github.com/anhtp4495/spark-lab/tree/main/conf)
 ### [Source codes](https://github.com/anhtp4495/spark-lab/tree/main/src)
+
+### Thêm dòng ở hosts trên Windows. C:\Windows\System32\drivers\etc\hosts
+34.125.84.158 spark-master-app.com
+
+### Lưu lại và mở web browser, truy cập:
+http://spark-master-app.com:8080/
